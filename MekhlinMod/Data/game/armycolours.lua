@@ -11,7 +11,7 @@
 colour_presets =
 {
 	{ name = "$17500000", colour  = { 255, 255, 255} }, -- Skull White (Custom)
-	{ name = "$17500001", colour  = { 0, 0, 0} }, -- Chaos Black (Custom)
+	{ name = "$17500001", colour  = { 3, 3, 3} }, -- Chaos Black (Custom)
 	{ name = "$73024", colour  = { 70, 70, 70} }, -- Boltgun Metal
 	{ name = "$73025", colour  = { 128, 130, 132} }, -- Codex Grey
 	{ name = "$73026", colour  = { 190, 190, 190} }, -- Fortress Grey
@@ -23,7 +23,7 @@ colour_presets =
 	{ name = "$17500003", colour  = { 154, 140, 123} }, -- Kommando Khaki (Custom)
 	{ name = "$73013", colour  = { 148, 44, 44} }, -- Red Gore
 	{ name = "$73012", colour  = { 100, 39, 29} }, -- Dark Flesh
-	{ name = "$17500004", colour  = { 110, 20, 0} }, -- Blood Ravens Red (Custom)
+	{ name = "$17500004", colour  = { 110, 20, 0} }, -- Blood Raven Red (Custom)
 	{ name = "$17500005", colour  = { 121, 55, 33} }, -- Terracotta (Custom)
 	{ name = "$73014", colour  = { 209, 26, 26} }, -- Blood Red
 	{ name = "$73006", colour  = { 0, 38, 80} }, -- Midnight Blue
