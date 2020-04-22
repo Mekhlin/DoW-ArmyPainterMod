@@ -1,0 +1,42 @@
+LocalInfo =
+{
+	associated_race = "space_marine_race",
+	badge_name = "space_marine_race/salamanders",
+	banner_name = "space_marine_race/vindicate",
+}
+
+UnitCustomization =
+{
+	force_name = "Salamanders",
+
+	Eyes =  
+	{
+		b = 0,
+		g = 191,
+		r = 255,
+	},
+	Weapons =  
+	{
+		b = 26,
+		g = 26,
+		r = 210,
+	},
+	Primary =  
+	{
+		b = 60,
+		g = 140,
+		r = 30,
+	},
+	Trim =  
+	{
+		b = 132,
+		g = 130,
+		r = 128,
+	},
+	Secondary =  
+	{
+		b = 3,
+		g = 3,
+		r = 3,
+	},
+}

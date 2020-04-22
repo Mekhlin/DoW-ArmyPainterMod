@@ -1,0 +1,42 @@
+LocalInfo =
+{
+	associated_race = "space_marine_race",
+	badge_name = "space_marine_race/ravenguard",
+	banner_name = "space_marine_race/ravenguard",
+}
+
+UnitCustomization =
+{
+	force_name = "Mekhlin",
+
+	Eyes =  
+	{
+		b = 255,
+		g = 255,
+		r = 255,
+	},
+	Weapons =  
+	{
+		b = 70,
+		g = 70,
+		r = 70,
+	},
+	Primary =  
+	{
+		b = 33,
+		g = 55,
+		r = 121,
+	},
+	Trim =  
+	{
+		b = 132,
+		g = 130,
+		r = 128,
+	},
+	Secondary =  
+	{
+		b = 100,
+		g = 70,
+		r = 25,
+	},
+}
