@@ -1,9 +1,9 @@
 [global]
-UIName = Mekhlin Mod
+UIName = Army Painter
 Description = Just some mod
 Playable = 1
 DllName = WXPMod
-ModFolder = MekhlinMod
+ModFolder = ArmyPainterMod
 ModVersion = 1.0.0
 TextureFE = 
 TextureIcon = 
